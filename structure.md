@@ -11,3 +11,6 @@
 * Prototypes
 * Detailed in Browser Javascript and DOM Manipulation : *incomplete*
 * Nodejs *incomplete*
+* Higher Order Functions
+* Event Handling
+* Object Oriented and Functional Programming
